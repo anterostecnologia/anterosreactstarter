@@ -10,7 +10,7 @@
   "author": "Edson Martins",
   "license": "Apache 2.0",
   "devDependencies": {
-    "anteros-react": "file:../anteros-react/anteros-react-1.0.39.tgz",
+    "anteros-react": "^1.0.40",
     "axios": "^0.16.2",
     "babel-cli": "^6.24.0",
     "babel-core": "^6.23.1",
