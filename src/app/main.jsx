@@ -5,6 +5,7 @@ import { Provider } from "react-redux";
 import axios from 'axios';
 import { Anteros as anteros } from 'anteros-react';
 import Application from "../app/containers/Application";
+import "anteros-react-theme/lib/anteros-react-theme-default.css";
 
 
 axios.defaults.headers = { 'Content-Type': 'application/json', "Authorization": "Basic " + btoa('USARIO' + ":" + 'SENHA') };
